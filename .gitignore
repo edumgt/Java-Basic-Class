@@ -1,3 +1,27 @@
 /target
 /Youtube
 /Doc
+
+# Java build outputs
+*.class
+*.jar
+*.war
+*.ear
+/out
+/build
+/.gradle
+
+# IDE / editor
+/.idea
+*.iml
+.classpath
+.project
+.settings/
+
+# Logs / crash dumps
+*.log
+hs_err_pid*
+replay_pid*
+
+# OS files
+.DS_Store
